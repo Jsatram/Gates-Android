@@ -1,9 +1,5 @@
 # Gates-Android-
+<img src="GameMenuGates.png" width="90" height="160">
+                                    
 
-![](GameMenuGates.png)
-(Main menu)
-![](GamePlayGates.png)
-(Gameplay)
-![](GaveOverGates.png)
-(End game menu)
 
