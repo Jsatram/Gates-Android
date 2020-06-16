@@ -1,6 +1,9 @@
 # Gates-Android-
 
 ![](GameMenuGates.png)
-![](MenuGates.png)
+(Main menu)
+![](GamePlayGates.png)
+(Gameplay)
 ![](GaveOverGates.png)
-repo for unity android app (Gates)
+(End game menu)
+
