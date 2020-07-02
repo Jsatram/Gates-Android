@@ -14,7 +14,7 @@ Object oriented programming practices |
 Thinking about the device the app will be used on and accounting for differences in mediums |
 
 # Note
-All of the code and assets were done by me EXCEPT the tail attached to the player I want to give credit to "HowlinnWolf" for that super cool algorithm.
+Credit to "HowlinnWolf" for that super cool algorithm for the players trail.
 https://answers.unity.com/questions/1343711/trail-effect-for-non-moving-object.html
 (Link to where I got the code)
 
